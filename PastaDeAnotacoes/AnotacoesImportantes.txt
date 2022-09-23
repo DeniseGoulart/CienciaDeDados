@@ -1,0 +1,19 @@
+Comandos Git/GitHub
+Listar pastas: dir
+Ir para uma pasta específica: cd
+cd / → vai para raiz
+cd nome_da_pasta → vai para a pasta
+cd .. → retorna ao diretório acima
+Limpar tela → cls
+Tecla TAB → auto completa o nome das pastas e arquivos
+Criar pastas → mkdir
+Criar arquivos → echo texto > nome_do_arquivo.extensão
+Deletar arquivos dentro da pasta → del nome_da_pasta
+Remover diretórios → rmdir nome_da_pasta /S /Q
+Ajuda do comando: nome_do_comando /?
+LS → listar
+cd nome_da_pasta
+CTRL+L → limpar (ou clear)
+ls -a → mostrar arquivos ocultos
+mv → mover arquivo
+
